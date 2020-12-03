@@ -1,4 +1,4 @@
-#I have modified a few things to implement super resolution on MAC GPU, have fun. All credits to the mentioned paper's authors.
+#I have modified a few things to implement super resolution on MAC CPU, have fun. All credits to the mentioned paper's authors.
 # Superresolution using an efficient sub-pixel convolutional neural network
 
 This example illustrates how to use the efficient sub-pixel convolution layer described in  ["Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network" - Shi et al.](https://arxiv.org/abs/1609.05158) for increasing spatial resolution within your network for tasks such as superresolution.
